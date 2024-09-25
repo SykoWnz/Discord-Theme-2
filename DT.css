@@ -13,10 +13,10 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
 
 :root {
-  --darkplus-bg: #efede8;
-  --darkplus-bg2: #3e2b01;
+  --darkplus-bg: #3d3626;
+  --darkplus-bg2: #3e3009;
   --darkplus-sec: #807344;
-  --darkplus-links: #706a46;
+  --darkplus-links: #634e0b;
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 0%;
   --watermark-filter-saturate: 0%;
